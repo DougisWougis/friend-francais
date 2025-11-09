@@ -1,2 +1,2 @@
 # friend-francais
-Locally-ran llm to practice conversational French. 
+Locally-ran LLM to practice conversational French. 
