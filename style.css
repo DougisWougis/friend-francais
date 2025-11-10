@@ -1,0 +1,33 @@
+
+/* univseral styling */
+* {
+    color: black;
+}
+
+/* changes background color of body */
+body {
+    height: 100%;
+    width: 100%;
+    color: blue;
+    background-image: url("FrenchFlag2.jpg");
+    margin-left: 50px;
+}
+
+img {
+    margin-left: 100px;
+}
+
+p {
+    background-color: white;
+    border-style: double dotted;
+    border-width: 6px;
+}
+
+.maintitle {
+    color: red;
+    background-color: black;
+}
+
+#purple {
+    background-color: purple;
+}
